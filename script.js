@@ -1,1 +1,1 @@
-console.log('Hello World');
+<button onclick="myFunction()">Click me</button>
